@@ -1,0 +1,9 @@
+#define PRI_MANTENIMIENTO 99
+#define PRI_ADMINISTRACION 75
+#define PRI_PAGO 60
+#define PRI_ANULACION 45
+#define PRI_RESERVA 30
+#define PRI_CONSULTA 15
+#define CAPACIDAD_N 8
+#define CAPACIDAD_L 6
+#define TIMEOUT 8
